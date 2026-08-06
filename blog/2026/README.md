@@ -1,6 +1,7 @@
 # ここにはおすすめの書籍や記事を残しておきます
 
 ## 記事
+* [2026/08/06 30日で消えるAIの履歴を救う！ローカル履歴永続化ツール「CTX」の紹介](./blog-ctx-local-history-tool.md)
 * [2026/07/06 LangGraph で学ぶマルチエージェント構築：ループと状態管理の実装入門](./blog-learning-langgraph-multi-agent.md)
 * [2026/06/11 AIをフォルダで組織化！マルチエージェントのノンコード設計ガイド](./blog-multi_agent_benefits.md)
 * [2026/05/18 無料・無制限で試せるローカルLLM入門](./blog-local-llm-agent.md)
